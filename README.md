@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-<img /src='https://github.com/Soheilja28/weather_temp_humidity/blob/main/turing.png'>
+<img src='https://github.com/Soheilja28/weather_temp_humidity/blob/main/turing.png'/>
 
 ## Getting Started
 
